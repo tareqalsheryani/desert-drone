@@ -1,0 +1,4 @@
+.venv/
+*.out
+*.zip
+.DS_Store
